@@ -8,4 +8,5 @@ void setup() {
 // Next frame:  circle at (x,y). //
 void draw() {
   ellipse( 50,50, 30,30 );       // Try changing the (x,y) and size.
+   text ("Hi there", 50, height-50);
 }
